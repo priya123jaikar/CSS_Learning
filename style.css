@@ -1,0 +1,46 @@
+h3{
+    color: greenyellow;
+}
+p{
+    color: rgb(27, 24, 25);
+    text-align: left;
+}
+
+button{
+    color: hotpink ;
+}
+
+body{
+    background-color: rgb(243, 238, 243);
+}
+
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
+#btn{
+    background-color: green;
+}
+h1{
+    text-align: center;
+    text-decoration:wavy underline;
+}
+a{
+    text-decoration: none;
+}
+
+#one{
+    font-size: 25px;
+}
+#two{
+    font-size: 15px;
+}
+#three{
+    font-size: 30px;
+}
+#onepara{
+    line-height: 16px;
+    text-transform: uppercase;
+}
